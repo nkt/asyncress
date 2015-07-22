@@ -1,0 +1,29 @@
+{
+  "name": "asyncress",
+  "version": "0.0.0",
+  "description": "async/await tweaks for express",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkt/asyncress.git"
+  },
+  "keywords": [
+    "express",
+    "async",
+    "await",
+    "promise"
+  ],
+  "author": "Nikita Gusakov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nkt/asyncress/issues"
+  },
+  "homepage": "https://github.com/nkt/asyncress#readme",
+  "dependencies": {
+    "express": "^4.13.1",
+    "methods": "^1.1.1"
+  }
+}
